@@ -10,8 +10,9 @@ const Sobre = () => (
       ducimus ad maxime?
     </Paragrafo>
     <GithubContent>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy" />
-      <img src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ecblandy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&token=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" />
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecblandy&layout=compact&langs_count=7&theme=dracula" />
     </GithubContent>
   </section>
 )
